@@ -3,7 +3,9 @@ DevOps Upskill Challenge: From "Hello World" to Kubernetes
 
 ## What
 
-A curriculum or roadmap that covers basic DevOps/SRE concepts and technologies. Aimed at students, technical people from other fields wanting to learn or move into DevOps (sysadmins, software developers, IT professionals etc) and junior DevOps.
+A curriculum or roadmap that covers basic DevOps/SRE concepts and technologies. Aimed at students, technical people from other fields wanting to learn or move into DevOps (sysadmins, software developers, IT professionals etc) and junior DevOps.  
+
+As a positive extra outcome, people working through this roadmap will end up with a Git DevOps project repository that they can use in their resume.
 
 Characteristics:
 - Objective-based. Each challenge will have clear conditions of victory.
@@ -23,7 +25,6 @@ The DevOps Upskill Challenge project can be abbreviated as "DOUC".
 # How
 
 - Pick one challenge and try to accomplish its objectives. You can use a different order (but there are dependencies) or skip the challenges you are already familiar with.
-- For the objectives with code solutions, if you create a new one that is fundamentally different from the examples provided (using a different tool for example), you can create a pull request so your example is also included.
 - If you get stuck or have comments, you can ask in the `#devops_upskill_challenge` channel of the [Hangops Slack](https://hangops.slack.com/) or in the Reddit [/r/DevOpsUpskill](https://www.reddit.com/r/DevOpsUpskill/) community.
 
 ## Challenges
