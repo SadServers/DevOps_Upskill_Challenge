@@ -1,0 +1,19 @@
+# _config.yml
+
+title: "DevOps Upskill Challenge"
+description: "DevOps Upskill Challenge: From 'Hello World' to Kubernetes"
+baseurl: ""
+url: "https://devopsupskillchallenge.com/"
+
+markdown: kramdown
+theme: minima
+
+include:
+  - README.md
+
+
+collections:
+  mydocs:
+    output: true
+    permalink: /:collection/:path/
+
