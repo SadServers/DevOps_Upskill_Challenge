@@ -6,7 +6,9 @@ baseurl: ""
 url: "https://devopsupskillchallenge.com/"
 
 markdown: kramdown
-theme: minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 
 include:
   - "*.md"
