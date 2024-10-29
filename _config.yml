@@ -9,7 +9,8 @@ markdown: kramdown
 theme: minima
 
 include:
-  - README.md
+  - "*.md"
+  - "**/*.md"
 
 
 collections:
