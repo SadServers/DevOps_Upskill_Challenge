@@ -29,12 +29,12 @@ The DevOps Upskill Challenge project can be abbreviated as "DOUC".
 
 ## Challenges
 
-### [1. Linux Server](<1. Linux Server/README.md>)
+### [1. Linux Server](1.%20Linux%20Server/README.md)
 
 - 1.1 Objective: characterize a server: what’s its purpose, is it busy, does it have errors?
 - 1.2 Objective: parsing logs and metrics (find/grep/cut/uniq etc )
 
-### [2. HTTP](<2. HTTP/README.md>)
+### [2. HTTP](2.%20HTTP/README.md))
 - 2.1 Objective: create code that responds to HTTP requests (eg browser http://localhost:8080) with "Hello World". Examples with: Code (Java, Python, Golang, Java) and Web servers (Nginx, Apache)
 Concepts:
     - HTTP protocol, header/body, response codes, curl
