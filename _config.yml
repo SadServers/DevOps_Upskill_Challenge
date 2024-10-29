@@ -13,8 +13,3 @@ include:
   - "**/*.md"
 
 
-collections:
-  mydocs:
-    output: true
-    permalink: /:collection/:path/
-
