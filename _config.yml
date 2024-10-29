@@ -10,6 +10,3 @@ theme: minima
 
 include:
   - "*.md"
-  - "**/*.md"
-
-
