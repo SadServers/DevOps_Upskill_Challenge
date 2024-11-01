@@ -1,7 +1,7 @@
 # DevOps Upskill Challenge
 DevOps Upskill Challenge: From "Hello World" to Kubernetes
 
-Nicer layout at [DevOpsUpskillChallenge.com](https://devopsupskillchallenge.com/)
+If you are in Github, there's a nicer layout at [DevOpsUpskillChallenge.com](https://devopsupskillchallenge.com/)
 
 ## What
 
@@ -31,13 +31,17 @@ The DevOps Upskill Challenge project can be abbreviated as "DOUC".
 
 # What is DevOps?
 
-<img src="devops.png" alt="douc" width="600"/>
+<img src="devops.png" alt="devops" width="600"/>
 
 There is no one definition of "DevOps". For our purposes we'll use a practical definition: _"DevOps is the set of skills that companies ask for in jobs labeled as DevOps Engineer"_.  
 
-Those skill areas are mostly: CI/CD, (for the most part cloud) infrastructure and operations (monitoring, troubleshooting).
+Those skill areas are mostly: CI/CD, (for the most part cloud) infrastructure and operations (monitoring, troubleshooting).  
 
-There's also a "DevOpsyness" component as a way of doing things, primarily _Infrastructure as Code (IaC)_ and _automation_ – which is another way of saying "doing infrastructure with the tooling and workflow of a software engineer. There are also some good practices typically mentioned like continuous improvement, collaboration and other vague good intentions that could be as well be part of any (software) engineering project or practice, not just DevOps.
+There's also a "DevOpsyness" component as a way of doing things, primarily _Infrastructure as Code (IaC)_ and _automation_ – which is another way of saying "doing infrastructure with the tooling and workflow of a software engineer.  
+
+And there are also some good practices typically mentioned like frequent and continous deployments, short feedback loops, (see DORA metrics for example), as well as some more vague good intentions that could be as well be part of any (software) engineering project or practice, not just DevOps, like continuous improvement or collaboration.
+
+For a longer discussion of what is DevOps in practice, see this [blog post](https://docs.sadservers.com/blog/what-the-f-is-devops/).
 
 # Challenges
 
