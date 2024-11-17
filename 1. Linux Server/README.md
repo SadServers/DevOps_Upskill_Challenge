@@ -10,7 +10,7 @@ It's very hard to try to summarize the Linux skills needed in order to perform a
 ## 1.1 Objective: Characterize a Linux Server
 What’s its purpose, is it busy, does it have errors?
 
-Run the [Linux Server Review](https://sadservers.com/scenario/linux-server-review) scenario to get a Linux server and follow its [Server Review Guide](https://docs.sadservers.com/docs/guides/practical-linux-server-review/) to achive this objective. 
+Run the [Linux Server Review](https://sadservers.com/scenario/linux-server-review) scenario to get a Linux server and follow its [Server Review Guide](https://docs.sadservers.com/docs/scenario-guides/practical-linux-server-review/) to achive this objective. 
 
 
 ## 1.2 Objective: Parsing Logs and Metrics
